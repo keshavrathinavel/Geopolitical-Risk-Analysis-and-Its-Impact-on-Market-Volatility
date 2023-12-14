@@ -1,1 +1,0 @@
-# Geopolitical-Risk-Analysis-and-Its-Impact-on-Market-Volatility

@@ -127,7 +127,7 @@ The model's predictions are less smoother and more responsive to sharp peaks and
 
 # Conclusion
 
-Throughout this research, we have developed and evaluated a predictive model focused on the Geopolitical Risk Index (GPRI), an essential metric for understanding the interplay between geopolitical events and financial market volatility. Our approach, leveraging a sophisticated Bi-LSTM network with an attention mechanism, has demonstrated a promising ability to capture the overarching trends of the GPRI.
+Throughout this research, we have developed and evaluated a predictive model focused on the Geopolitical Risk Index (GPRI), an essential metric for understanding the interplay between geopolitical events and financial market volatility. Our approach, leveraging a sophisticated Bi-LSTM network with an attention mechanism, has demonstrated a promising ability to capture the GPRI's overarching trends.
 
 The model's performance, particularly in following the general direction of the GPRI, underscores its potential in trend analysis and long-term market assessments. By smoothing out short-term fluctuations, the model provides a filtered perspective on the GPRI, which can be highly valuable for strategic planning and risk assessment purposes. The adaptability of the model to learn from historical data and predict future trends suggests that it has successfully internalised key temporal patterns that are indicative of broader market behaviors in response to geopolitical risks.
 
